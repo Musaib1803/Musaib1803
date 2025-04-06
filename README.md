@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Musaib1803  
+- 👋 Hi, I’m Musaib
 - 👀 I’m interested in cross-platform mobile development, .NET MAUI, Xamarin, and modern app architectures  
 - 🌱 I’m currently learning advanced .NET MAUI features and exploring Blazor Hybrid apps  
 - 💞️ I’m looking to collaborate on mobile app migrations, performance optimizations, and scalable front-end solutions   
